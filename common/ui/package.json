@@ -1,7 +1,7 @@
 {
-  "name": "@everis/ui",
+  "name": "@lichblitz/ui",
   "version": "0.0.1",
-  "description": "everis ui repository",
+  "description": "shared library repository",
   "main": "src/index.js",
   "module": "src/index.js",
   "author": "Carlos Cortes",
