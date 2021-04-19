@@ -1,0 +1,12 @@
+{
+  "name": "@everis/cross-platform-react",
+  "version": "1.0.0",
+  "description": "ionic + react dual project",
+  "main": "index.js",
+  "author": "Carlos Cortes Palacio",
+  "license": "ISC",
+  "private": true,
+  "workspaces": [
+    "./common/*"
+  ]
+}
